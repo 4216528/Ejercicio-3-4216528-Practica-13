@@ -6,7 +6,7 @@
              
              x:Class="Ejercicio_3.MainPage">
 
-    <!-- Creamos un Grid y estblecemos el ancho con la propiedad WidthRequest y con la funcion Auto la adaptación automatica de la columna dependiendo lo que esta contenga -->
+    <!-- Creamos un Grid y establecemos el ancho con la propiedad WidthRequest y con la funcion Auto la adaptación automatica de la columna dependiendo lo que esta contenga -->
     
     <Grid>
         
